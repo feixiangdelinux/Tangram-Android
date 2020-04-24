@@ -1,0 +1,33 @@
+[
+  {
+    "type": "container-oneColumn",
+    "items": [
+      {
+        "type": "InterfaceCell",
+        "text": "接口方式自定义View",
+        "style": {
+          "height": 160,
+          "margin": [
+            10,
+            10,
+            10,
+            10
+          ]
+        }
+      },
+      {
+        "type": "InterfaceCell",
+        "text": "接口方式自定义View"
+      }
+    ],
+    "style": {
+      "margin": [
+        10,
+        10,
+        10,
+        10
+      ]
+    }
+  }
+
+]
